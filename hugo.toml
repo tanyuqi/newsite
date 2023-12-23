@@ -2,8 +2,11 @@ baseURL = 'https://tanyuqi.github.io/newsite/'
 languageCode = 'en-us'
 title = '新时代农村奋斗者'
 theme = 'ananke'
+
 publishDir = "docs"
+
 canonifyurls = true
+
 [markup]
 defaultMarkdownHandler = "goldmark"
 [markup.goldmark]
