@@ -1,19 +1,22 @@
 ---
-date: 2017-04-13T11:15:58-04:00
-description: "Quasimodo"
-featured_image: ""
+date: 2023-12-18T11:15:58-04:00
+description: ""
+featured_image: "https://wx3.sinaimg.cn/mw690/008f5WDyly1hl2yd8wil2j31hc0u0gqn.jpg"
 tags: []
 title: "忙碌的一天"
 ---
-
+谭玉琪
+---
 王先生从早到晚，忙碌而有序地执行着他的日常任务。早晨，当第一缕阳光洒向大地，他便开始忙碌起来。
 首先，他会走进牛羊棚，为这些动物准备丰盛的早餐。他细心地铺草，一角不落，确保每只动物都得到足够的食物。
 接着，王叔叔会走进挤奶场，开始挤牛奶的工作。挤完奶之后又开始清洁挤奶机器，接着把挤出来的新鲜牛奶搬运出去，等待预订的客户过来拿。
 
-
+<iframe src="//player.bilibili.com/player.html?aid=877628026&bvid=BV1CN4y187Lt&cid=1376955582&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"width="800px" height="600px"> </iframe>
 就连吃饭的时间都是挤出来的。特别是到了摘高原夏菜的季节，王叔叔变得更加忙碌。每天中午吃完午饭就穿上工作服，戴上帽子，扛着农具，走向田间地头。摘取高原夏菜，由于种植的面积比较大，需要消耗的时间也比较多，王先生跟他的妻子常常摘到天黑才回家。在种植蔬菜的前期他们还需要经常灌水，拿着锄头在小河道旁筑堤引流，以便水流向蔬菜地里，确保庄稼和蔬菜得到充足的水分。
 
+{{< figure src="https://wx1.sinaimg.cn/mw690/008f5WDyly1hl2wuq7lthj31hc0u00z1.jpg">}}
 
+{{< figure src="https://wx1.sinaimg.cn/mw690/008f5WDyly1hl2vztlz4pj30xy0rcq9a.jpg">}}
 在完成这些工作后，他又拿起除草机，马不停蹄地开始锄草，以备第二天牛羊的食物。
 王先生每天重复着这些工作，为家庭、为土地、为生活付出着辛勤的汗水。他的勤劳和付出为我们展示了一种朴实无华的生活态度和追求。
 
