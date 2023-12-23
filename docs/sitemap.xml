@@ -2,45 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/en/</loc>
+    <loc>https://tanyuqi.github.io/newsite/en/</loc>
     <lastmod>2023-12-19T11:25:05-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://tanyuqi.github.io/newsite/</loc>
     <lastmod>2023-12-19T11:25:05-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/en/post/chapter-6/</loc>
+    <loc>https://tanyuqi.github.io/newsite/en/post/chapter-6/</loc>
     <lastmod>2023-12-19T11:25:05-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/en/post/chapter-5/</loc>
+    <loc>https://tanyuqi.github.io/newsite/en/post/chapter-5/</loc>
     <lastmod>2023-12-18T11:15:58-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/en/post/chapter-4/</loc>
+    <loc>https://tanyuqi.github.io/newsite/en/post/chapter-4/</loc>
     <lastmod>2023-12-17T11:14:48-04:00</lastmod>
   </url><url>
-    <loc>https://example.org/fr/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-  </url><url>
-    <loc>https://example.org/fr/post/chapter-1/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-  </url><url>
-    <loc>https://example.org/tags/scene/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-  </url><url>
-    <loc>https://example.org/tags/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-  </url><url>
-    <loc>https://example.org/en/post/</loc>
+    <loc>https://tanyuqi.github.io/newsite/en/post/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/fr/post/</loc>
-    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+    <loc>https://tanyuqi.github.io/newsite/en/contact/</loc>
   </url><url>
-    <loc>https://example.org/en/contact/</loc>
+    <loc>https://tanyuqi.github.io/newsite/categories/</loc>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://tanyuqi.github.io/newsite/tags/</loc>
   </url><url>
-    <loc>https://example.org/en/about/</loc>
-  </url><url>
-    <loc>https://example.org/fr/contact/</loc>
+    <loc>https://tanyuqi.github.io/newsite/en/about/</loc>
   </url>
 </urlset>
