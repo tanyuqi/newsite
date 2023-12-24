@@ -3,12 +3,16 @@ languageCode = 'en-us'
 title = '新时代农村奋斗者'
 theme = 'ananke'
 
-publishDir = "docs"
-
-canonifyurls = true
-
-[markup]
-defaultMarkdownHandler = "goldmark"
-[markup.goldmark]
+[markup ]
+defaultMarkdownHandler ="goldmark"
+[markup.goldmark ]
 [markup.goldmark.renderer]
 unsafe = true
+
+publishDir = "docs"
+# 图片显示问题
+canonifyurls = true
+
+#摘要长短设置
+hasCJKLanguage = true
+summaryLength =30
