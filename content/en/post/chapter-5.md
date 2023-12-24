@@ -12,9 +12,9 @@ title: "忙碌的一天"
 <iframe src="//player.bilibili.com/player.html?aid=877628026&bvid=BV1CN4y187Lt&cid=1376955582&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"width="800px" height="600px"> </iframe>
 就连吃饭的时间都是挤出来的。特别是到了摘高原夏菜的季节，王叔叔变得更加忙碌。每天中午吃完午饭就穿上工作服，戴上帽子，扛着农具，走向田间地头。摘取高原夏菜，由于种植的面积比较大，需要消耗的时间也比较多，王先生跟他的妻子常常摘到天黑才回家。在种植蔬菜的前期他们还需要经常灌水，拿着锄头在小河道旁筑堤引流，以便水流向蔬菜地里，确保庄稼和蔬菜得到充足的水分。
 
-{{< figure src="/images/one.jpg">}}
+{{<figure src="/images/one.jpg">}}
 
-{{< figure src="/images/two.jpg">}}
+{{<figure src="/images/two.jpg">}}
 在完成这些工作后，他又拿起除草机，马不停蹄地开始锄草，以备第二天牛羊的食物。
 王先生每天重复着这些工作，为家庭、为土地、为生活付出着辛勤的汗水。他的勤劳和付出为我们展示了一种朴实无华的生活态度和追求。
 

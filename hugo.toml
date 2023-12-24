@@ -10,7 +10,7 @@ defaultMarkdownHandler ="goldmark"
 unsafe = true
 
 publishDir = "docs"
-
+#图片显示问题
 canonifyurls = true
 
 hasCJKLanguage = true
