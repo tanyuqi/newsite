@@ -5,14 +5,13 @@ theme = 'ananke'
 
 [markup ]
 defaultMarkdownHandler ="goldmark"
-[markup.goldmark ]
+[markup.goldmark]
 [markup.goldmark.renderer]
 unsafe = true
 
 publishDir = "docs"
-# 图片显示问题
+
 canonifyurls = true
 
-#摘要长短设置
 hasCJKLanguage = true
 summaryLength =30
